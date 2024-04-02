@@ -13,11 +13,11 @@
         #include <stdio.h>
     #endif
 
-    namespace ckhw{
-        class sys{
-
+    namespace cksystem{
+        class io
+        {
             public:
-                std::string read_exec(const char* cmd);
+                std::string ioexecute(const char* cmd);
         };
     }
 #endif

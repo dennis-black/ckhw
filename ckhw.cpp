@@ -1,21 +1,22 @@
 #include "ckhw.hpp"
 
-// ckhw::sys::read_exec() Method Found by marsh(Feb 19 2024) & waqas(Jan 26 2005)
+// ckhw::ckSystem::ioexecute() Method Found by marsh(Feb 19 2024) & waqas(Jan 26 2005)
 // Link: "https://stackoverflow.com/questions/478898/how-do-i-execute-a-command-and-get-the-output-of-the-command-within-c-using-po"
 
 #if __cplusplus > 199711L
 
-    std::string ckhw::sys::read_exec(const char* cmd)
+    std::string cksystem::io::ioexecute(const char* command_)
     {
         std::array<char, 128> buf_;
         std::string res_;
-        std::unique_ptr<FILE, decltype(&pclose)> pipe(popen(cmd, "r"), pclose);
+        std::unique_ptr<FILE, decltype(&pclose)> pipe_(popen(command_, "r"), pclose);
 
-        if (!pipe)
+        if(!pipe_)
         {
             throw std::runtime_error("popen() failed!");
         }
-        while (fgets(buf_.data(), static_cast<int>(buf_.size()), pipe.get()) != nullptr)
+        
+        while(fgets(buf_.data(), static_cast<int>(buf_.size()), pipe_.get()) != nullptr)
         {
             res_ += buf_.data();
         }
@@ -24,28 +25,28 @@
     }
 #else
 
-    std::string ckhw::sys::read_exec(const char* cmd)
+    std::string cksystem::io::ioexecute(const char* command_)
     {    
-        char buffer[128];
+        char buf_[128];
         std::string res_ = "";    
         
-        FILE* Pipe = popen(cmd, "r");
-        if (!Pipe) throw std::runtime_error("popen() failed!");
+        FILE* pipe_ = popen(command_, "r");
+        if (!pipe_) throw std::runtime_error("popen() failed!");
         
-        try
-        {
-            while (fgets(buffer, sizeof(buffer), pipe) != NULL)
+        try{
+        
+            while (fgets(buf_, sizeof(buf_), pipe_) != NULL)
             {
-                result += buffer;
+                res_ += buf_;
             }
-        }catch (...)
-        {
-            pclose(Pipe);
+        }catch (...){
+
+            pclose(pipe_);
             throw;
         }
-        pclose(Pipe);
+        pclose(pipe_);
 
-        return result;
+        return res_;
     }
 #endif
 
