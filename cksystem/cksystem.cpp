@@ -1,11 +1,11 @@
-#include "ckhw.hpp"
+#include "cksystem.hpp"
 
 // ckhw::ckSystem::ioexecute() Method Found by marsh(Feb 19 2024) & waqas(Jan 26 2005)
 // Link: "https://stackoverflow.com/questions/478898/how-do-i-execute-a-command-and-get-the-output-of-the-command-within-c-using-po"
 
 #if __cplusplus > 199711L
 
-    std::string cksystem::io::ioexecute(const char* command_)
+    std::string cksystem::io::execute(const char* command_)
     {
         std::array<char, 128> buf_;
         std::string res_;
@@ -25,7 +25,7 @@
     }
 #else
 
-    std::string cksystem::io::ioexecute(const char* command_)
+    std::string cksystem::io::execute(const char* command_)
     {    
         char buf_[128];
         std::string res_ = "";    
