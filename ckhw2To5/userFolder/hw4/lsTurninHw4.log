@@ -1,0 +1,39 @@
+.:
+total 16
+drwxrwx--- 2 turninman turninman 4096 May 13 19:26 p1
+drwxrwx--- 2 turninman turninman 4096 May 13 19:26 p2
+drwxrwx--- 2 turninman turninman 4096 May 13 19:26 p3
+drwxrwx--- 2 turninman turninman 4096 May 13 19:26 p4
+
+./p1:
+total 16
+-rw-rw---- 1 turninman turninman 154 May 13 19:26 Makefile
+-rw-rw---- 1 turninman turninman 287 May 13 19:26 main.cpp
+-rw-rw---- 1 turninman turninman 246 May 13 19:26 twoNumbers.cpp
+-rw-rw---- 1 turninman turninman  80 May 13 19:26 twoNumbers.h
+
+./p2:
+total 16
+-rw-rw---- 1 turninman turninman 142 May 13 19:26 Makefile
+-rw-rw---- 1 turninman turninman 927 May 13 19:26 findAMac.cpp
+-rw-rw---- 1 turninman turninman 118 May 13 19:26 findAMac.h
+-rw-rw---- 1 turninman turninman 679 May 13 19:26 main.cpp
+
+./p3:
+total 40
+-rw-rw---- 1 turninman turninman   136 May 13 19:26 Makefile
+-rw-rw---- 1 turninman turninman  3377 May 13 19:26 contact.cpp
+-rw-rw---- 1 turninman turninman   451 May 13 19:26 contact.h
+-rw-rw---- 1 turninman turninman 10832 May 13 19:26 contact.o
+-rw-rw---- 1 turninman turninman   293 May 13 19:26 main.cpp
+-rw-rw---- 1 turninman turninman   232 May 13 19:26 test1.in
+-rw-rw---- 1 turninman turninman   230 May 13 19:26 test2.in
+-rw-rw---- 1 turninman turninman   230 May 13 19:26 test3.in
+
+./p4:
+total 28
+-rw-rw---- 1 turninman turninman  178 May 13 19:26 Makefile
+-rw-rw---- 1 turninman turninman  732 May 13 19:26 dynamic2DArray.cpp
+-rw-rw---- 1 turninman turninman   83 May 13 19:26 dynamic2DArray.h
+-rw-rw---- 1 turninman turninman 9920 May 13 19:26 dynamic2DArray.o
+-rw-rw---- 1 turninman turninman  349 May 13 19:26 main.cpp

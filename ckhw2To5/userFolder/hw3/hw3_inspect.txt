@@ -1,0 +1,41 @@
+==========perfect_Compared Result ==========
+Testfile [0] ---------------- [FAILED]----------x
+Testfile [1] ---------------- [PASSED]
+Testfile [2] ---------------- [PASSED]
+Testfile [3] ---------------- [PASSED]
+Testfile [4] ---------------- [PASSED]
+Testfile [5] ---------------- [PASSED]
+Testfile [6] ---------------- [PASSED]
+==========chaistory_Compared Result ==========
+Testfile [0] ---------------- [PASSED]
+Testfile [1] ---------------- [PASSED]
+Testfile [2] ---------------- [PASSED]
+Testfile [3] ---------------- [PASSED]
+Testfile [4] ---------------- [PASSED]
+Testfile [5] ---------------- [PASSED]
+Testfile [6] ---------------- [PASSED]
+Testfile [7] ---------------- [PASSED]
+Testfile [8] ---------------- [PASSED]
+Testfile [9] ---------------- [PASSED]
+==========barchart_Compared Result ==========
+Testfile [0] ---------------- [PASSED]
+Testfile [1] ---------------- [PASSED]
+Testfile [2] ---------------- [PASSED]
+Testfile [3] ---------------- [PASSED]
+Testfile [4] ---------------- [PASSED]
+Testfile [5] ---------------- [PASSED]
+Testfile [6] ---------------- [PASSED]
+Testfile [7] ---------------- [PASSED]
+Testfile [8] ---------------- [PASSED]
+Testfile [9] ---------------- [PASSED]
+==========10andhalf_Compared Result ==========
+Testfile [0] ---------------- [PASSED]
+Testfile [1] ---------------- [PASSED]
+Testfile [2] ---------------- [PASSED]
+Testfile [3] ---------------- [FAILED]----------x
+Testfile [4] ---------------- [FAILED]----------x
+Testfile [5] ---------------- [FAILED]----------x
+Testfile [6] ---------------- [PASSED]
+Testfile [7] ---------------- [PASSED]
+Testfile [8] ---------------- [PASSED]
+Testfile [9] ---------------- [PASSED]

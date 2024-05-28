@@ -1,0 +1,28 @@
+.:
+total 16
+drwxrwx--- 2 turninman turninman 4096 Mar 22 08:57 p1
+drwxrwx--- 2 turninman turninman 4096 Mar 22 08:57 p2
+drwxrwx--- 2 turninman turninman 4096 Mar 22 08:57 p3
+drwxrwx--- 2 turninman turninman 4096 Mar 22 08:57 p4
+
+./p1:
+total 16
+-rw-rw---- 1 turninman turninman 129 Mar 22 08:57 Makefile
+-rw-rw---- 1 turninman turninman 420 Mar 22 08:57 main.cpp
+-rw-rw---- 1 turninman turninman 994 Mar 22 08:57 string.cpp
+-rw-rw---- 1 turninman turninman 166 Mar 22 08:57 string.h
+
+./p2:
+total 4
+-rw-rw---- 1 turninman turninman 242 Mar 22 08:57 f2c.cpp
+
+./p3:
+total 4
+-rw-rw---- 1 turninman turninman 1063 Mar 22 08:57 fare.cpp
+
+./p4:
+total 16
+-rw-rw---- 1 turninman turninman 124 Mar 22 08:57 Makefile
+-rw-rw---- 1 turninman turninman 384 Mar 22 08:57 main.cpp
+-rw-rw---- 1 turninman turninman 616 Mar 22 08:57 value.cpp
+-rw-rw---- 1 turninman turninman 124 Mar 22 08:57 value.h

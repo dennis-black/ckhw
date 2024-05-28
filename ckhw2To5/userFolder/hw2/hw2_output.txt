@@ -1,0 +1,400 @@
+
+-----------------------In Testfile [0]--------------------------
+[p1/a.out output]
+Width=? String=? abc******
+******abc
+***abc***
+
+[wu.string output]
+Width=? String=? abc******
+******abc
+***abc***
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [1]--------------------------
+[p1/a.out output]
+Width=? String=? abc*****
+*****abc
+***abc**
+
+[wu.string output]
+Width=? String=? abc*****
+*****abc
+***abc**
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [2]--------------------------
+[p1/a.out output]
+Width=? String=? csie
+csie
+csie
+
+[wu.string output]
+Width=? String=? csie
+csie
+csie
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [3]--------------------------
+[p1/a.out output]
+Width=? String=? wiiiiii************
+************wiiiiii
+******wiiiiii******
+
+[wu.string output]
+Width=? String=? wiiiiii************
+************wiiiiii
+******wiiiiii******
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [4]--------------------------
+[p1/a.out output]
+Width=? String=? Junwu***************
+***************Junwu
+********Junwu*******
+
+[wu.string output]
+Width=? String=? Junwu***************
+***************Junwu
+********Junwu*******
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [5]--------------------------
+[p1/a.out output]
+Width=? String=? twoPeasInAPod****
+****twoPeasInAPod
+**twoPeasInAPod**
+
+[wu.string output]
+Width=? String=? twoPeasInAPod****
+****twoPeasInAPod
+**twoPeasInAPod**
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [6]--------------------------
+[p1/a.out output]
+Width=? String=? helloWorld
+helloWorld
+helloWorld
+
+[wu.string output]
+Width=? String=? helloWorld
+helloWorld
+helloWorld
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [7]--------------------------
+[p1/a.out output]
+Width=? String=? helloWorld
+helloWorld
+helloWorld
+
+[wu.string output]
+Width=? String=? helloWorld
+helloWorld
+helloWorld
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [8]--------------------------
+[p1/a.out output]
+Width=? String=? HelloWorld*
+*HelloWorld
+*HelloWorld
+
+[wu.string output]
+Width=? String=? HelloWorld*
+*HelloWorld
+*HelloWorld
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [9]--------------------------
+[p1/a.out output]
+Width=? String=? HelloWorld**********
+**********HelloWorld
+*****HelloWorld*****
+
+[wu.string output]
+Width=? String=? HelloWorld**********
+**********HelloWorld
+*****HelloWorld*****
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [0]--------------------------
+[p2/a.out output]
+Fahrenheit:Fahrenheit 132.00 = Celsius 55.56
+
+[wu.f2c output]
+Fahrenheit:Fahrenheit 132.00 = Celsius 55.56
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [1]--------------------------
+[p2/a.out output]
+Fahrenheit:Fahrenheit 77.77 = Celsius 25.43
+
+[wu.f2c output]
+Fahrenheit:Fahrenheit 77.77 = Celsius 25.43
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [2]--------------------------
+[p2/a.out output]
+Fahrenheit:Fahrenheit 33.30 = Celsius 0.72
+
+[wu.f2c output]
+Fahrenheit:Fahrenheit 33.30 = Celsius 0.72
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [3]--------------------------
+[p2/a.out output]
+Fahrenheit:Fahrenheit -18.05 = Celsius -27.81
+
+[wu.f2c output]
+Fahrenheit:Fahrenheit -18.05 = Celsius -27.81
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [4]--------------------------
+[p2/a.out output]
+Fahrenheit:Fahrenheit 76.75 = Celsius 24.86
+
+[wu.f2c output]
+Fahrenheit:Fahrenheit 76.75 = Celsius 24.86
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [5]--------------------------
+[p2/a.out output]
+Fahrenheit:Fahrenheit 15.32 = Celsius -9.27
+
+[wu.f2c output]
+Fahrenheit:Fahrenheit 15.32 = Celsius -9.27
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [6]--------------------------
+[p2/a.out output]
+Fahrenheit:Fahrenheit 15.36 = Celsius -9.24
+
+[wu.f2c output]
+Fahrenheit:Fahrenheit 15.36 = Celsius -9.24
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [7]--------------------------
+[p2/a.out output]
+Fahrenheit:Fahrenheit 12.35 = Celsius -10.92
+
+[wu.f2c output]
+Fahrenheit:Fahrenheit 12.35 = Celsius -10.92
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [8]--------------------------
+[p2/a.out output]
+Fahrenheit:Fahrenheit 3.14 = Celsius -16.03
+
+[wu.f2c output]
+Fahrenheit:Fahrenheit 3.14 = Celsius -16.03
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [9]--------------------------
+[p2/a.out output]
+Fahrenheit:Fahrenheit 0.30 = Celsius -17.61
+
+[wu.f2c output]
+Fahrenheit:Fahrenheit 0.30 = Celsius -17.61
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [0]--------------------------
+[p3/a.out output]
+Fare=22
+
+[wu.fare output]
+Fare=22
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [1]--------------------------
+[p3/a.out output]
+Fare=96
+
+[wu.fare output]
+Fare=96
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [2]--------------------------
+[p3/a.out output]
+Fare=125
+
+[wu.fare output]
+Fare=125
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [3]--------------------------
+[p3/a.out output]
+Fare=111
+
+[wu.fare output]
+Fare=111
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [4]--------------------------
+[p3/a.out output]
+Fare=111
+
+[wu.fare output]
+Fare=111
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [5]--------------------------
+[p3/a.out output]
+Error!
+
+[wu.fare output]
+Error!
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [6]--------------------------
+[p3/a.out output]
+Error!
+
+[wu.fare output]
+Error!
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [7]--------------------------
+[p3/a.out output]
+Fare=80
+
+[wu.fare output]
+Fare=80
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [8]--------------------------
+[p3/a.out output]
+Fare=111
+
+[wu.fare output]
+Fare=111
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [9]--------------------------
+[p3/a.out output]
+Fare=70
+
+[wu.fare output]
+Fare=70
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [0]--------------------------
+[p4/a.out output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):173
+
+[wu.value output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):173
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [1]--------------------------
+[p4/a.out output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):B7
+
+[wu.value output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):B7
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [2]--------------------------
+[p4/a.out output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):58011
+
+[wu.value output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):58011
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [3]--------------------------
+[p4/a.out output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):18BC9
+
+[wu.value output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):18BC9
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [4]--------------------------
+[p4/a.out output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):31705271
+
+[wu.value output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):31705271
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [5]--------------------------
+[p4/a.out output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):EF1
+
+[wu.value output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):EF1
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [6]--------------------------
+[p4/a.out output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):11034
+
+[wu.value output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):11034
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [7]--------------------------
+[p4/a.out output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):1
+
+[wu.value output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):1
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [8]--------------------------
+[p4/a.out output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):703679
+
+[wu.value output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):703679
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [9]--------------------------
+[p4/a.out output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):52746757
+
+[wu.value output]
+Number system for input (T/O/H):Input a value:Number system for output (T/O/H):52746757
+
+[Judgement] Outputs are the same :)

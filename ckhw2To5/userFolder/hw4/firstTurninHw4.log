@@ -1,0 +1,23 @@
+Turning in:
+ p1/twoNumbers.cpp -- ok
+ p1/main.cpp -- ok
+ p1/Makefile -- ok
+ p1/twoNumbers.h -- ok
+ p2/findAMac.cpp -- ok
+ p2/main.cpp -- ok
+ p2/findAMac.h -- ok
+ p2/Makefile -- ok
+ p3/contact.cpp -- ok
+ p3/test3.in -- ok
+ p3/main.cpp -- ok
+ p3/Makefile -- ok
+ p3/contact.o -- ok
+ p3/test1.in -- ok
+ p3/contact.h -- ok
+ p3/test2.in -- ok
+ p4/dynamic2DArray.o -- ok
+ p4/main.cpp -- ok
+ p4/Makefile -- ok
+ p4/dynamic2DArray.cpp -- ok
+ p4/dynamic2DArray.h -- ok
+All done.

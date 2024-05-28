@@ -1,0 +1,8 @@
+==========date_Compared Result ==========
+Testfile [0] ---------------- [FAILED]----------x
+==========star_Compared Result ==========
+Testfile [0] ---------------- [FAILED]----------x
+==========main_Compared Result ==========
+==========star_Compared Result ==========
+Testfile [0] ---------------- [FAILED]----------x
+==========main_Compared Result ==========

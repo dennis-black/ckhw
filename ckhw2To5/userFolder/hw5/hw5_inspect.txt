@@ -1,0 +1,6 @@
+==========date_Compared Result ==========
+Testfile [0] ---------------- [PASSED]
+==========star_Compared Result ==========
+Testfile [0] ---------------- [PASSED]
+==========main_Compared Result ==========
+Testfile [0] ---------------- [PASSED]

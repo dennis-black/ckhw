@@ -1,0 +1,25 @@
+.:
+total 16
+drwxrwx--- 2 turninman turninman 4096 Apr  1 16:32 p1
+drwxrwx--- 2 turninman turninman 4096 Apr  1 16:32 p2
+drwxrwx--- 2 turninman turninman 4096 Apr  1 16:32 p3
+drwxrwx--- 2 turninman turninman 4096 Apr  1 16:32 p4
+
+./p1:
+total 4
+-rw-rw---- 1 turninman turninman 671 Apr  1 16:32 perfect.cpp
+
+./p2:
+total 4
+-rw-rw---- 1 turninman turninman 1155 Apr  1 16:32 chaistory.cpp
+
+./p3:
+total 4
+-rw-rw---- 1 turninman turninman 741 Apr  1 16:32 barchart.cpp
+
+./p4:
+total 16
+-rw-rw---- 1 turninman turninman 1415 Apr  1 16:32 10andhalf.cpp
+-rw-rw---- 1 turninman turninman  102 Apr  1 16:32 10andhalf.h
+-rw-rw---- 1 turninman turninman  148 Apr  1 16:32 Makefile
+-rw-rw---- 1 turninman turninman  216 Apr  1 16:32 main.cpp

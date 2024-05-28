@@ -1,0 +1,369 @@
+
+-----------------------In Testfile [0]--------------------------
+[p1/your_twoNumbers output]
+(3, 5)
+(5, 3)
+(5, 0)
+
+[a.twoNumbers output]
+(3, 5)
+(5, 3)
+(5, 0)
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [1]--------------------------
+[p1/your_twoNumbers output]
+(5, 3)
+(3, 5)
+(0, 5)
+
+[a.twoNumbers output]
+(5, 3)
+(3, 5)
+(0, 5)
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [2]--------------------------
+[p1/your_twoNumbers output]
+Error!
+
+[a.twoNumbers output]
+Error!
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [3]--------------------------
+[p1/your_twoNumbers output]
+(17, 45)
+(45, 17)
+(45, 0)
+
+[a.twoNumbers output]
+(17, 45)
+(45, 17)
+(45, 0)
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [4]--------------------------
+[p1/your_twoNumbers output]
+(90, 0)
+(0, 90)
+(0, 90)
+
+[a.twoNumbers output]
+(90, 0)
+(0, 90)
+(0, 90)
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [5]--------------------------
+[p1/your_twoNumbers output]
+Error!
+
+[a.twoNumbers output]
+Error!
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [0]--------------------------
+[p2/your_findAMac output]
+Which Mac do you want to buy?MacBook Air:TWD 41900.
+You can also consider iMac:TWD 44900.
+
+[a.findAMac output]
+Which Mac do you want to buy?MacBook Air:TWD 41900.
+You can also consider iMac:TWD 44900.
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [1]--------------------------
+[p2/your_findAMac output]
+Which Mac do you want to buy?MacBook Pro:TWD 54900.
+You can also consider iMac:TWD 44900.
+
+[a.findAMac output]
+Which Mac do you want to buy?MacBook Pro:TWD 54900.
+You can also consider iMac:TWD 44900.
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [2]--------------------------
+[p2/your_findAMac output]
+Which Mac do you want to buy?iMac:TWD 44900.
+You can also consider MacBook Air:TWD 41900.
+
+[a.findAMac output]
+Which Mac do you want to buy?iMac:TWD 44900.
+You can also consider MacBook Air:TWD 41900.
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [3]--------------------------
+[p2/your_findAMac output]
+Which Mac do you want to buy?Mac Mini:TWD 24900.
+You can also consider MacBook Air:TWD 41900.
+
+[a.findAMac output]
+Which Mac do you want to buy?Mac Mini:TWD 24900.
+You can also consider MacBook Air:TWD 41900.
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [4]--------------------------
+[p2/your_findAMac output]
+Which Mac do you want to buy?Mac Studio:TWD 64999.
+You can also consider MacBook Pro:TWD 54900.
+
+[a.findAMac output]
+Which Mac do you want to buy?Mac Studio:TWD 64999.
+You can also consider MacBook Pro:TWD 54900.
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [5]--------------------------
+[p2/your_findAMac output]
+Which Mac do you want to buy?Mac Pro:TWD 229900.
+You can also consider Mac Studio:TWD 64999.
+
+[a.findAMac output]
+Which Mac do you want to buy?Not Found!
+
+[Judgement] x------------------------------------------------Outputs differ :(
+
+-----------------------In Testfile [6]--------------------------
+[p2/your_findAMac output]
+Which Mac do you want to buy?Not Found!
+
+[a.findAMac output]
+Which Mac do you want to buy?Not Found!
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [7]--------------------------
+[p2/your_findAMac output]
+Which Mac do you want to buy?Not Found!
+
+[a.findAMac output]
+Which Mac do you want to buy?Not Found!
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [8]--------------------------
+[p2/your_findAMac output]
+Which Mac do you want to buy?Not Found!
+
+[a.findAMac output]
+Which Mac do you want to buy?Not Found!
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [0]--------------------------
+[p3/your_contact output]
+Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Aiden Zhou (Male) October 14th, 2006
+Chloe Zhang (Female) June 2nd, 2006
+Mia Zhao (Female) May 20th, 2005
+Lily Wang (Female) March 15th, 2005
+Olivia Lin (Female) November 9th, 2004
+Noah Liu (Male) July 30th, 2004
+Emma Yang (Female) December 24th, 2003
+Jack Chen (Male) August 21st, 2003
+Ethan Li (Male) January 12th, 2002
+Lucas Wu (Male) September 18th, 2001
+
+[a.contact output]
+Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Emma Yang (Female) December 24th, 2003.
+Mia Zhao (Female) May 20th, 2005.
+Noah Liu (Male) July 30th, 2004.
+Aiden Zhou (Male) October 14th, 2006.
+Jack Chen (Male) August 21st, 2003.
+Lucas Wu (Male) September 18th, 2001.
+Lily Wang (Female) March 15th, 2005.
+Ethan Li (Male) January 12th, 2002.
+Chloe Zhang (Female) June 2nd, 2006.
+Olivia Lin (Female) November 9th, 2004.
+
+[Judgement] x------------------------------------------------Outputs differ :(
+
+-----------------------In Testfile [1]--------------------------
+[p3/your_contact output]
+Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Aiden Zhou (Male) October 14th, 2006
+Chloe Zhang (Female) June 2nd, 2006
+Mia Zhao (Female) May 20th, 2005
+Lily Wang (Female) March 15th, 2005
+Olivia Lin (Female) November 9th, 2004
+Noah Liu (Male) July 30th, 2004
+Emma Yang (Female) December 24th, 2003
+Jack Chen (Male) August 21st, 2003
+Ethan Li (Male) January 12th, 2002
+Lucas Wu (Male) September 18th, 2001
+
+[a.contact output]
+Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Emma Yang (Female) December 24th, 2003.
+Mia Zhao (Female) May 20th, 2005.
+Noah Liu (Male) July 30th, 2004.
+Aiden Zhou (Male) October 14th, 2006.
+Jack Chen (Male) August 21st, 2003.
+Lucas Wu (Male) September 18th, 2001.
+Lily Wang (Female) March 15th, 2005.
+Ethan Li (Male) January 12th, 2002.
+Chloe Zhang (Female) June 2nd, 2006.
+Olivia Lin (Female) November 9th, 2004.
+
+[Judgement] x------------------------------------------------Outputs differ :(
+
+-----------------------In Testfile [2]--------------------------
+[p3/your_contact output]
+Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): sOMETHING Else (Female) November 31st, 9999
+Liu Kang (Male) November 20th, 6254
+Dennis Black (Male) June 25th, 1998
+Kevin GG (Male) December 23rd, 1995
+Shelly Liu (Female) December 21st, 1995
+Kung Liu (Male) April 16th, 1995
+Kung Lao (Female) April 12th, 1995
+Marcus Hsieh (Male) January 13th, 1995
+Chun Li (Female) March 11th, 1987
+Amy Wang (Female) March 5th, 1977
+
+[a.contact output]
+Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): Name: Gender (M/F): Birthday (YYYY MM DD): sOMETHING Else (Female) November 31st, 9999.
+Kevin GG (Male) December 23rd, 1995.
+Liu Kang (Male) November 20th, 6254.
+Dennis Black (Male) June 25th, 1998.
+Shelly Liu (Female) December 21st, 1995.
+Kung Liu (Male) April 16th, 1995.
+Kung Lao (Female) April 12th, 1995.
+Chun Li (Female) March 11th, 1987.
+Amy Wang (Female) March 5th, 1977.
+Marcus Hsieh (Male) January 13th, 1995.
+
+[Judgement] x------------------------------------------------Outputs differ :(
+
+-----------------------In Testfile [0]--------------------------
+[p4/your_dynamic2DArray output]
+Dimension 1: Dimension 2: 12
+34
+
+[a.dynamic2DArray output]
+Dimension 1: Dimension 2: 1 2 
+3 4 
+
+[Judgement] x------------------------------------------------Outputs differ :(
+
+-----------------------In Testfile [1]--------------------------
+[p4/your_dynamic2DArray output]
+Dimension 1: Dimension 2:  1 2 3 4 5
+ 6 7 8 910
+1112131415
+1617181920
+
+[a.dynamic2DArray output]
+Dimension 1: Dimension 2: 1 2 3 4 5 
+6 7 8 9 10 
+11 12 13 14 15 
+16 17 18 19 20 
+
+[Judgement] x------------------------------------------------Outputs differ :(
+
+-----------------------In Testfile [2]--------------------------
+[p4/your_dynamic2DArray output]
+Dimension 1: Dimension 2:  1 2 3 4 5
+ 6 7 8 910
+1112131415
+
+[a.dynamic2DArray output]
+Dimension 1: Dimension 2: 1 2 3 4 5 
+6 7 8 9 10 
+11 12 13 14 15 
+
+[Judgement] x------------------------------------------------Outputs differ :(
+
+-----------------------In Testfile [3]--------------------------
+[p4/your_dynamic2DArray output]
+Dimension 1: Dimension 2:   1  2  3  4  5  6  7  8  9 10
+ 11 12 13 14 15 16 17 18 19 20
+ 21 22 23 24 25 26 27 28 29 30
+ 31 32 33 34 35 36 37 38 39 40
+ 41 42 43 44 45 46 47 48 49 50
+ 51 52 53 54 55 56 57 58 59 60
+ 61 62 63 64 65 66 67 68 69 70
+ 71 72 73 74 75 76 77 78 79 80
+ 81 82 83 84 85 86 87 88 89 90
+ 91 92 93 94 95 96 97 98 99100
+
+[a.dynamic2DArray output]
+Dimension 1: Dimension 2: 1 2 3 4 5 6 7 8 9 10 
+11 12 13 14 15 16 17 18 19 20 
+21 22 23 24 25 26 27 28 29 30 
+31 32 33 34 35 36 37 38 39 40 
+41 42 43 44 45 46 47 48 49 50 
+51 52 53 54 55 56 57 58 59 60 
+61 62 63 64 65 66 67 68 69 70 
+71 72 73 74 75 76 77 78 79 80 
+81 82 83 84 85 86 87 88 89 90 
+91 92 93 94 95 96 97 98 99 100 
+
+[Judgement] x------------------------------------------------Outputs differ :(
+
+-----------------------In Testfile [4]--------------------------
+[p4/your_dynamic2DArray output]
+Dimension 1: Dimension 2:  1 2 3 4 5 6 7 8 910
+11121314151617181920
+21222324252627282930
+
+[a.dynamic2DArray output]
+Dimension 1: Dimension 2: 1 2 3 4 5 6 7 8 9 10 
+11 12 13 14 15 16 17 18 19 20 
+21 22 23 24 25 26 27 28 29 30 
+
+[Judgement] x------------------------------------------------Outputs differ :(
+
+-----------------------In Testfile [5]--------------------------
+[p4/your_dynamic2DArray output]
+Dimension 1: Dimension 2: 123
+456
+
+[a.dynamic2DArray output]
+Dimension 1: Dimension 2: 1 2 3 
+4 5 6 
+
+[Judgement] x------------------------------------------------Outputs differ :(
+
+-----------------------In Testfile [6]--------------------------
+[p4/your_dynamic2DArray output]
+Dimension 1: Dimension 2:  1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+
+[a.dynamic2DArray output]
+Dimension 1: Dimension 2: 1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+
+[Judgement] x------------------------------------------------Outputs differ :(
+
+-----------------------In Testfile [7]--------------------------
+[p4/your_dynamic2DArray output]
+Dimension 1: Dimension 2: 1
+
+[a.dynamic2DArray output]
+Dimension 1: Dimension 2: 1 
+
+[Judgement] x------------------------------------------------Outputs differ :(

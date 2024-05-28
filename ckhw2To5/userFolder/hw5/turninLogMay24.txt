@@ -1,0 +1,33 @@
+.:
+total 12
+drwxrwx--- 2 turninman turninman 4096 May 24 20:35 p1
+drwxrwx--- 2 turninman turninman 4096 May 24 20:35 p2
+drwxrwx--- 2 turninman turninman 4096 May 24 20:35 p3
+
+./p1:
+total 24
+-rw-rw---- 1 turninman turninman  117 May 24 20:35 Makefile
+-rw-rw---- 1 turninman turninman 6620 May 24 20:35 date.cpp
+-rw-rw---- 1 turninman turninman  724 May 24 20:35 date.h
+-rw-rw---- 1 turninman turninman 3299 May 24 20:35 main.cpp
+-rw-rw---- 1 turninman turninman   31 May 24 20:35 test1.in
+
+./p2:
+total 28
+-rw-rw---- 1 turninman turninman  176 May 24 20:35 Makefile
+-rw-rw---- 1 turninman turninman 6620 May 24 20:35 date.cpp
+-rw-rw---- 1 turninman turninman  724 May 24 20:35 date.h
+-rw-rw---- 1 turninman turninman  596 May 24 20:35 main.cpp
+-rw-rw---- 1 turninman turninman 2594 May 24 20:35 star.cpp
+-rw-rw---- 1 turninman turninman 1003 May 24 20:35 star.h
+
+./p3:
+total 36
+-rw-rw---- 1 turninman turninman  176 May 24 20:35 Makefile
+-rw-rw---- 1 turninman turninman 6620 May 24 20:35 date.cpp
+-rw-rw---- 1 turninman turninman  724 May 24 20:35 date.h
+-rw-rw---- 1 turninman turninman 2768 May 24 20:35 main.cpp
+-rw-rw---- 1 turninman turninman  348 May 24 20:35 main_0.in
+-rw-rw---- 1 turninman turninman 2594 May 24 20:35 star.cpp
+-rw-rw---- 1 turninman turninman 1003 May 24 20:35 star.h
+-rw-rw---- 1 turninman turninman  320 May 24 20:35 test.cpp

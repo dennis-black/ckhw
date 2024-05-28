@@ -1,0 +1,187 @@
+
+-----------------------In Testfile [0]--------------------------
+[p1/your_date output]
+Please input a date (US: MM/DD/YYYY): Please input a date (UK: DD/MM/YYYY): Month: Day: Year: d1:
+Default: 9/11/2021
+US: 9/11/2021
+UK: 11/9/2021
+TW: 110/9/11
+US-F: September 11th, 2021
+UK-F: 11th September, 2021
+TW-F: 民國110年9月11日
+d2:
+Default: 10/1/1998
+US: 10/1/1998
+UK: 1/10/1998
+TW: 87/10/1
+US-F: October 1st, 1998
+UK-F: 1st October, 1998
+TW-F: 民國87年10月1日
+d3:
+Default: 9/30/1998
+US: 9/30/1998
+UK: 30/9/1998
+TW: 87/9/30
+US-F: September 30th, 1998
+UK-F: 30th September, 1998
+TW-F: 民國87年9月30日
+d4:
+Default: 9/30/1997
+US: 9/30/1997
+UK: 30/9/1997
+TW: 86/9/30
+US-F: September 30th, 1997
+UK-F: 30th September, 1997
+TW-F: 民國86年9月30日
+d5:
+Default: 1/1/1990
+US: 1/1/1990
+UK: 1/1/1990
+TW: 79/1/1
+US-F: January 1st, 1990
+UK-F: 1st January, 1990
+TW-F: 民國79年1月1日
+
+The date 9/30/1998 is earlier than 10/1/1998.
+
+[A.date output]
+Please input a date (US: MM/DD/YYYY): Please input a date (UK: DD/MM/YYYY): Month: Day: Year: d1:
+Default: 9/11/2021
+US: 9/11/2021
+UK: 11/9/2021
+TW: 110/9/11
+US-F: September 11th, 2021
+UK-F: 11th September, 2021
+TW-F: 民國110年9月11日
+d2:
+Default: 10/1/1998
+US: 10/1/1998
+UK: 1/10/1998
+TW: 87/10/1
+US-F: October 1st, 1998
+UK-F: 1st October, 1998
+TW-F: 民國87年10月1日
+d3:
+Default: 9/30/1998
+US: 9/30/1998
+UK: 30/9/1998
+TW: 87/9/30
+US-F: September 30th, 1998
+UK-F: 30th September, 1998
+TW-F: 民國87年9月30日
+d4:
+Default: 9/30/1997
+US: 9/30/1997
+UK: 30/9/1997
+TW: 86/9/30
+US-F: September 30th, 1997
+UK-F: 30th September, 1997
+TW-F: 民國86年9月30日
+d5:
+Default: 1/1/1990
+US: 1/1/1990
+UK: 1/1/1990
+TW: 79/1/1
+US-F: January 1st, 1990
+UK-F: 1st January, 1990
+TW-F: 民國79年1月1日
+
+The date 9/30/1998 is earlier than 10/1/1998.
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [0]--------------------------
+[p2/your_star output]
+Tom Cruise(Male,7/31/1962) Address: No. 19, Happy Rd, NY
+Kelluy McGillis(Female,7/9/1957) Address: Undef
+Val Edward Kilmer(Male,12/31/1959) Address: 19 La Lita Ln, Santa Barbara, CA
+Meg Ryan(Female,12/19/1961) Address: No. 101, Almond St, PA
+
+[A.star output]
+Tom Cruise(Male,7/31/1962) Address: No. 19, Happy Rd, NY
+Kelluy McGillis(Female,7/9/1957) Address: Undef
+Val Edward Kilmer(Male,12/31/1959) Address: 19 La Lita Ln, Santa Barbara, CA
+Meg Ryan(Female,12/19/1961) Address: No. 101, Almond St, PA
+
+[Judgement] Outputs are the same :)
+
+-----------------------In Testfile [0]--------------------------
+[p3/your_main output]
+<CMD>? #1: --- empty ---
+#2: --- empty ---
+#3: --- empty ---
+#4: --- empty ---
+#5: --- empty ---
+<CMD>? Name: Gender (F/M): Birthday (MM/DD/YYYY): Address: <CMD>? Name: Gender (F/M): Birthday (MM/DD/YYYY): Address: <CMD>? Name: Gender (F/M): Birthday (MM/DD/YYYY): Address: <CMD>? Name: Gender (F/M): Birthday (MM/DD/YYYY): Address: <CMD>? #1: Tom Cruise(Male,7/31/1962) Address: No. 19, Happy Rd., NY
+#2: Kelluy McGillis(Female,7/9/1957) Address: I don't know
+#3: Val Edward Kilmer(Male,12/31/1959) Address: 19 La Lita Ln, Santa Barbara, CA
+#4: Meg Ryan(Female,12/19/1961) Address: No. 101, Almond St, PA
+#5: --- empty ---
+<CMD>? Name: Gender (F/M): Birthday (MM/DD/YYYY): Address: <CMD>? Not enough space!
+<CMD>? #1: Tom Cruise(Male,7/31/1962) Address: No. 19, Happy Rd., NY
+#2: Kelluy McGillis(Female,7/9/1957) Address: I don't know
+#3: Val Edward Kilmer(Male,12/31/1959) Address: 19 La Lita Ln, Santa Barbara, CA
+#4: Meg Ryan(Female,12/19/1961) Address: No. 101, Almond St, PA
+#5: Anthony Edwards(Male,7/19/1962) Address: 300 N Los Carneros Rd, Goleta, CA
+<CMD>? Space doubled!
+<CMD>? #1: Tom Cruise(Male,7/31/1962) Address: No. 19, Happy Rd., NY
+#2: Kelluy McGillis(Female,7/9/1957) Address: I don't know
+#3: Val Edward Kilmer(Male,12/31/1959) Address: 19 La Lita Ln, Santa Barbara, CA
+#4: Meg Ryan(Female,12/19/1961) Address: No. 101, Almond St, PA
+#5: Anthony Edwards(Male,7/19/1962) Address: 300 N Los Carneros Rd, Goleta, CA
+#6: --- empty ---
+#7: --- empty ---
+#8: --- empty ---
+#9: --- empty ---
+#10: --- empty ---
+<CMD>? Name: Gender (F/M): Birthday (MM/DD/YYYY): Address: <CMD>? #1: Tom Cruise(Male,7/31/1962) Address: No. 19, Happy Rd., NY
+#2: Kelluy McGillis(Female,7/9/1957) Address: I don't know
+#3: Val Edward Kilmer(Male,12/31/1959) Address: 19 La Lita Ln, Santa Barbara, CA
+#4: Meg Ryan(Female,12/19/1961) Address: No. 101, Almond St, PA
+#5: Anthony Edwards(Male,7/19/1962) Address: 300 N Los Carneros Rd, Goleta, CA
+#6: Thomas Skerritt(Male,8/25/1933) Address: 10125 E Jefferson Ave, Detroit, MI
+#7: --- empty ---
+#8: --- empty ---
+#9: --- empty ---
+#10: --- empty ---
+<CMD>? 
+[A.main output]
+<CMD>? #1: --- empty ---
+#2: --- empty ---
+#3: --- empty ---
+#4: --- empty ---
+#5: --- empty ---
+<CMD>? Name: Gender (F/M): Birthday (MM/DD/YYYY): Address: <CMD>? Name: Gender (F/M): Birthday (MM/DD/YYYY): Address: <CMD>? Name: Gender (F/M): Birthday (MM/DD/YYYY): Address: <CMD>? Name: Gender (F/M): Birthday (MM/DD/YYYY): Address: <CMD>? #1: Tom Cruise(Male,7/31/1962) Address: No. 19, Happy Rd., NY
+#2: Kelluy McGillis(Female,7/9/1957) Address: I don't know
+#3: Val Edward Kilmer(Male,12/31/1959) Address: 19 La Lita Ln, Santa Barbara, CA
+#4: Meg Ryan(Female,12/19/1961) Address: No. 101, Almond St, PA
+#5: --- empty ---
+<CMD>? Name: Gender (F/M): Birthday (MM/DD/YYYY): Address: <CMD>? Not enough space!
+<CMD>? #1: Tom Cruise(Male,7/31/1962) Address: No. 19, Happy Rd., NY
+#2: Kelluy McGillis(Female,7/9/1957) Address: I don't know
+#3: Val Edward Kilmer(Male,12/31/1959) Address: 19 La Lita Ln, Santa Barbara, CA
+#4: Meg Ryan(Female,12/19/1961) Address: No. 101, Almond St, PA
+#5: Anthony Edwards(Male,7/19/1962) Address: 300 N Los Carneros Rd, Goleta, CA
+<CMD>? Space doubled!
+<CMD>? #1: Tom Cruise(Male,7/31/1962) Address: No. 19, Happy Rd., NY
+#2: Kelluy McGillis(Female,7/9/1957) Address: I don't know
+#3: Val Edward Kilmer(Male,12/31/1959) Address: 19 La Lita Ln, Santa Barbara, CA
+#4: Meg Ryan(Female,12/19/1961) Address: No. 101, Almond St, PA
+#5: Anthony Edwards(Male,7/19/1962) Address: 300 N Los Carneros Rd, Goleta, CA
+#6: --- empty ---
+#7: --- empty ---
+#8: --- empty ---
+#9: --- empty ---
+#10: --- empty ---
+<CMD>? Name: Gender (F/M): Birthday (MM/DD/YYYY): Address: <CMD>? #1: Tom Cruise(Male,7/31/1962) Address: No. 19, Happy Rd., NY
+#2: Kelluy McGillis(Female,7/9/1957) Address: I don't know
+#3: Val Edward Kilmer(Male,12/31/1959) Address: 19 La Lita Ln, Santa Barbara, CA
+#4: Meg Ryan(Female,12/19/1961) Address: No. 101, Almond St, PA
+#5: Anthony Edwards(Male,7/19/1962) Address: 300 N Los Carneros Rd, Goleta, CA
+#6: Thomas Skerritt(Male,8/25/1933) Address: 10125 E Jefferson Ave, Detroit, MI
+#7: --- empty ---
+#8: --- empty ---
+#9: --- empty ---
+#10: --- empty ---
+<CMD>? 
+[Judgement] Outputs are the same :)
